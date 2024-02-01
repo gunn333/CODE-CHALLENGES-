@@ -1,4 +1,5 @@
-//! Rearrange the array in alternating positive and negative items
+// Given a sorted array of positive integers. Your task is to rearrange the array elements alternatively i.e first element should be max value, second should be min value, third should be second max, fourth should be second min and so on.
+
 
 #include <iostream>
 #include <vector>
@@ -30,3 +31,7 @@ int main() {
   }
   return 0;
 }
+
+/* Question Link :
+https://www.geeksforgeeks.org/problems/-rearrange-array-alternately-1587115620/1?page=1&difficulty%5B%5D=1&category%5B%5D=Arrays&sortBy=submissions
+*/
