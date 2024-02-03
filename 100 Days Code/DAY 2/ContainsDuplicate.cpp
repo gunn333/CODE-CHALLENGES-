@@ -1,3 +1,5 @@
+// Question Link: https://leetcode.com/problems/contains-duplicate/
+
 #include <iostream>
 #include <unordered_set>
 #include <vector>
@@ -23,8 +25,3 @@ int main() {
   cout << containsDuplicate(nums) << endl;
   return 0;
 }
-
-/*
-Question Link:
-https://leetcode.com/problems/contains-duplicate/
-*/
