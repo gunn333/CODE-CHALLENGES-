@@ -1,7 +1,7 @@
 //! Buy 2 Chocolates (LeetCode 2706)
 
 // Question Link:
-// https://leetcode.com/problems/buy-2-chocolates/
+// https://leetcode.com/problems/buy-two-chocolates/description/
 
 #include <bits/stdc++.h>
 using namespace std;
