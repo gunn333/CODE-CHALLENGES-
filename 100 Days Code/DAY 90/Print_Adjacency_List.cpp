@@ -11,6 +11,8 @@ vector<vector<int>> printGraph(int V, vector<pair<int, int>> edges) {
   vector<vector<int>> adj(V);
   // Add edges to the adjacency list
   for (int i = 0; i < edges.size(); i++) {
+    // edges[i].first means the starting node of the edge
+    // edges[i].second means the ending node of the edge
     adj[edges[i].first].push_back(edges[i].second);
     adj[edges[i].second].push_back(edges[i].first);
   }
