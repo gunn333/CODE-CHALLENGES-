@@ -1,6 +1,6 @@
-//! Binary Maximum Path Sum (LeetCode 124)
+//! Binary Maximum Path Sum (LeetCode - 124)
 
-// Question Link:
+// Question Link :
 // https://leetcode.com/problems/binary-tree-maximum-path-sum/
 
 #include <bits/stdc++.h>
